@@ -1,0 +1,11 @@
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.item {
+    background-color: #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+  
